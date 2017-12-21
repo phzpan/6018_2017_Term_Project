@@ -25,18 +25,19 @@ The dataset was used for statistical analysis and linear regression.
 
 ### Files
 
-6018-2017_project_main.ipynb: Main project file.
-6018-2017_project_main.py: Main project file.
-sat_machine_learning.ipynb: Analysis data and all figures.
-sqlite_module.py: python sqlite module.
-satpkg: python package 
+* 6018-2017_project_main.ipynb: Main project file.
+* 6018-2017_project_main.py: Main project file.
+* sat_machine_learning.ipynb: Analysis data and all figures.
+* sqlite_module.py: python sqlite module.
+* satpkg: python package 
 
 
 ### Requirement:
 
-Python
-Jupyter Notebook
-matplotlib
-numpy
-sklearn
-PyQt5
+- Python 3.6.1
+- Jupyter Notebook 5.0.0
+- pandas 0.20.1
+- matplotlib 2.0.2
+- numpy 1.12.1
+- sklearn 0.19.1
+- PyQt5
